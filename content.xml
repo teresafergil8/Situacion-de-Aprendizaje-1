@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605201814587F09V8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520181458BN79YV</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Un viaje a través de las palabras</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Diseñamos nuestra propia guía de viajes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Teresa Fernández Gil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Vamos a llevar a cabo una Situación de Aprendizaje para 3º de Primaria en el área de Lengua Castellana y Literatura utilizando como centro de interés los viajes. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779293346998</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpe9bh3y-b3obzgefh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Comienza nuestro viaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comienza nuestro viaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comienza nuestro viaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Comienza nuestro viaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh3y-b3obzgefh</odePageId>
+      <odeBlockId>block-1779293480911-goi0ng2sx</odeBlockId>
+      <blockName>Comienza nuestro viaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh3y-b3obzgefh</odePageId>
+          <odeBlockId>block-1779293480911-goi0ng2sx</odeBlockId>
+          <odeIdeviceId>idevice-1779293480908-mgqop516n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Presentación</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/“Un viaje a través de las palabras” (1).pdf" type="application/pdf"></embed>
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Presentación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779293480908-mgqop516n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Presentación</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/“Un viaje a través de las palabras” (1).pdf\" type=\"application/pdf\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Presentación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh43-fl1jtvt8b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protegemos nuestros datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protegemos nuestros datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protegemos nuestros datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh43-fl1jtvt8b</odePageId>
+      <odeBlockId>block-1779120769610-70is0gelq</odeBlockId>
+      <blockName>Lee la siguiente infografía para proteger tus datos en internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh43-fl1jtvt8b</odePageId>
+          <odeBlockId>block-1779120769610-70is0gelq</odeBlockId>
+          <odeIdeviceId>idevice-1779120769608-2d6gzruj6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;">
+<div class="figcaption header"><strong>Guía para proteger nuestros datos</strong></div>
+<img src="{{context_path}}/content/resources/Infografía para navegar seguros en internet.png" width="800" height="2000" alt="Guía para proteger nuestros datos" title="Guía para proteger nuestros datos" />
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Guía para proteger nuestros datos</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779120769608-2d6gzruj6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\">\n<div class=\"figcaption header\"><strong>Guía para proteger nuestros datos</strong></div>\n<img src=\"{{context_path}}/content/resources/Infografía para navegar seguros en internet.png\" width=\"800\" height=\"2000\" alt=\"Guía para proteger nuestros datos\" title=\"Guía para proteger nuestros datos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Guía para proteger nuestros datos</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh45-fhbfb2it3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los recursos necesarios para comenzar nuestra guía</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los recursos necesarios para comenzar nuestra guía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los recursos necesarios para comenzar nuestra guía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh45-fhbfb2it3</odePageId>
+      <odeBlockId>block-1779181997890-fkogpxf00</odeBlockId>
+      <blockName>Padlet para crear nuestra guía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh45-fhbfb2it3</odePageId>
+          <odeBlockId>block-1779181997890-fkogpxf00</odeBlockId>
+          <odeIdeviceId>idevice-1779181997889-xcgi9r3m0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/cwe665yty81o8n0x" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779181997889-xcgi9r3m0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/cwe665yty81o8n0x\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh47-rgkge1k4l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para docentes</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh47-rgkge1k4l</odePageId>
+      <odeBlockId>block-1779121581266-iu7bqfiga</odeBlockId>
+      <blockName>Entra en el siguiente enlace para abrir un tablón con herramientas intersantes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh47-rgkge1k4l</odePageId>
+          <odeBlockId>block-1779121581266-iu7bqfiga</odeBlockId>
+          <odeIdeviceId>idevice-1779121581264-1f6nhrvgo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1035px;" title="Symbaloo">
+<div class="figcaption header"><a href="https://www.symbaloo.com/home/mix/13eOcXMS3f" title="Symbaloo"><strong>Symbaloo</strong></a></div>
+<a href="https://www.symbaloo.com/home/mix/13eOcXMS3f" title="Symbaloo"><img src="{{context_path}}/content/resources/Captura symbaloo.png" title="Symbaloo" width="1035" height="601" alt="Symbaloo" /></a>
+<figcaption class="figcaption"><a href="https://www.symbaloo.com/home/mix/13eOcXMS3f" title="Symbaloo"><span class="title"><em>Symbaloo</em></span> <span class="license"><span class="sep">(</span>CC BY-NC-SA<span class="sep">)</span></span></a></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779121581264-1f6nhrvgo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1035px;\" title=\"Symbaloo\">\n<div class=\"figcaption header\"><a href=\"https://www.symbaloo.com/home/mix/13eOcXMS3f\" title=\"Symbaloo\"><strong>Symbaloo</strong></a></div>\n<a href=\"https://www.symbaloo.com/home/mix/13eOcXMS3f\" title=\"Symbaloo\"><img src=\"{{context_path}}/content/resources/Captura symbaloo.png\" title=\"Symbaloo\" width=\"1035\" height=\"601\" alt=\"Symbaloo\" /></a>\n<figcaption class=\"figcaption\"><a href=\"https://www.symbaloo.com/home/mix/13eOcXMS3f\" title=\"Symbaloo\"><span class=\"title\"><em>Symbaloo</em></span> <span class=\"license\"><span class=\"sep\">(</span>CC BY-NC-SA<span class=\"sep\">)</span></span></a></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh49-tqxlbdspk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh49-tqxlbdspk</odePageId>
+      <odeBlockId>block-1779122875172-ze781r1hr</odeBlockId>
+      <blockName>Aquí veremos paso a paso lo que iremos haciendo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh49-tqxlbdspk</odePageId>
+          <odeBlockId>block-1779122875172-ze781r1hr</odeBlockId>
+          <odeIdeviceId>idevice-1779122875170-anvpd2kg9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;">
+<div class="figcaption header"><strong>Línea temporal</strong></div>
+<img src="{{context_path}}/content/resources/Un viaje a través de las palabras (1).png" title="Línea temporal" width="1366" height="768" alt="Línea temporal de nuestro trabajo" />
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779122875170-anvpd2kg9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\">\n<div class=\"figcaption header\"><strong>Línea temporal</strong></div>\n<img src=\"{{context_path}}/content/resources/Un viaje a través de las palabras (1).png\" title=\"Línea temporal\" width=\"1366\" height=\"768\" alt=\"Línea temporal de nuestro trabajo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh4b-tjwxl2yiy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh4b-tjwxl2yiy</odePageId>
+      <odeBlockId>block-1779123308702-bsja6aedl</odeBlockId>
+      <blockName>Relación de las tareas con los criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh4b-tjwxl2yiy</odePageId>
+          <odeBlockId>block-1779123308702-bsja6aedl</odeBlockId>
+          <odeIdeviceId>idevice-1779123308699-jbn8r1k9d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Criterios de evaluación</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" type="application/pdf"></embed>
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Criterios de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779123308699-jbn8r1k9d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Criterios de evaluación</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" type=\"application/pdf\"></embed>\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Criterios de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh4c-4tc7h84vi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh4c-4tc7h84vi</odePageId>
+      <odeBlockId>block-1779123440943-8xae0z1eq</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh4c-4tc7h84vi</odePageId>
+          <odeBlockId>block-1779123440943-8xae0z1eq</odeBlockId>
+          <odeIdeviceId>idevice-1779123440941-ii36z8t3a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;">
+<div class="figcaption header"><strong>Rúbrica de evaluación</strong></div>
+<img src="{{context_path}}/content/resources/Exposición de la guía.png" title="Rúbrica de evaluación" width="1366" height="966" alt="Rúbrica de evaluación" />
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Rúbrica de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779123440941-ii36z8t3a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\">\n<div class=\"figcaption header\"><strong>Rúbrica de evaluación</strong></div>\n<img src=\"{{context_path}}/content/resources/Exposición de la guía.png\" title=\"Rúbrica de evaluación\" width=\"1366\" height=\"966\" alt=\"Rúbrica de evaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Rúbrica de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpe9bh4c-4tc7h84vi</odePageId>
+      <odeBlockId>block-1779123513532-kfyws5hrj</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh4c-4tc7h84vi</odePageId>
+          <odeBlockId>block-1779123513532-kfyws5hrj</odeBlockId>
+          <odeIdeviceId>idevice-1779123513530-izl4oufl7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;">
+<div class="figcaption header"><strong>Lista de cotejo</strong></div>
+<img src="{{context_path}}/content/resources/Lista de cotejo.png" title="Lista de cotejo" width="1366" height="1932" alt="Lista de cotejo" />
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="title"><em>Lista de cotejo</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779123513530-izl4oufl7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\">\n<div class=\"figcaption header\"><strong>Lista de cotejo</strong></div>\n<img src=\"{{context_path}}/content/resources/Lista de cotejo.png\" title=\"Lista de cotejo\" width=\"1366\" height=\"1932\" alt=\"Lista de cotejo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"title\"><em>Lista de cotejo</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe9bh4e-12cjss1bh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y autoría</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe9bh4e-12cjss1bh</odePageId>
+      <odeBlockId>block-1779184173866-rd1trlnlv</odeBlockId>
+      <blockName>Créditos y autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe9bh4e-12cjss1bh</odePageId>
+          <odeBlockId>block-1779184173866-rd1trlnlv</odeBlockId>
+          <odeIdeviceId>idevice-1779184173863-vccab6jfa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p download="exe-package:elp-name"><a href="exe-package:elp" title="">DESCARGA EL ARCHIVO EDITABLE</a></p>
+<p download="exe-package:elp-name">Recurso creado por María Teresa Fernández Gil</p>
+<figure class="exe-figure position-center" style="width: 1366px;">
+<div class="figcaption header"><strong>Créditos y autoría</strong></div>
+<img src="{{context_path}}/content/resources/Copia de “Un viaje a través de las palabras” (1).png" title="Créditos y autoría" width="1366" height="768" alt="Créditos y autoría" />
+<figcaption class="figcaption"><span class="author">María Teresa Fernández Gil</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779184173863-vccab6jfa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p download=\"exe-package:elp-name\"><a href=\"exe-package:elp\" title=\"\">DESCARGA EL ARCHIVO EDITABLE</a></p>\n<p download=\"exe-package:elp-name\">Recurso creado por María Teresa Fernández Gil</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\">\n<div class=\"figcaption header\"><strong>Créditos y autoría</strong></div>\n<img src=\"{{context_path}}/content/resources/Copia de “Un viaje a través de las palabras” (1).png\" title=\"Créditos y autoría\" width=\"1366\" height=\"768\" alt=\"Créditos y autoría\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Teresa Fernández Gil</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
